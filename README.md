@@ -10,4 +10,5 @@ simple web pages containing specific information about me .
 
 ## First-hand information
 
-Everything you need to know about me is in this first lab .
+Everything you need to know about me is in this first lab . This is a link to my website 
+https://abenatufuor.github.io/lab-1/.
