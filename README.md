@@ -1,12 +1,13 @@
-# Lab-1 Git Repository Seed
+# Web Technology First Lab
 
-This file is the template for the first lab in Ashesi Web Development 2020.
+This is my first web technology lab work for week 1 .
 
 ## Contents
 
-This repository contains a single file, a script for gathering the basic configuration of the user from bash.
+This fist lab contains basic information about my school , myself , work experiences and among other 
+interesting facts about me . This was done using visual studio code where html was used to design 
+simple web pages containing specific information about me . 
 
-## Using the file
+## First-hand information
 
-Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
-Web Technology
+Everything you need to know about me is in this first lab .
