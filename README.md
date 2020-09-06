@@ -1,4 +1,4 @@
-# Web Technology First Lab
+# Abena Tufuor's Lab
 
 This is my first web technology lab work for week 1 .
 
